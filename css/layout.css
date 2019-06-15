@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   background-blend-mode: difference;
+   /* background-blend-mode: difference; */
 }
 
 /* vertically center banner section */
@@ -60,7 +60,7 @@ header .banner {
 header .banner-text { 
    padding: 10px;
    width: 100%; 
-   background-color: rgba(68, 68, 68, 0.384);
+   background-color: rgba(68, 68, 68, 0.521);
 }
 
 header .banner-text h1 {
@@ -650,7 +650,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-istanbul-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
